@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjotbajwa&label=Profile%20views&color=0e75b6&style=flat" alt="prabhjotbajwa" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -14,10 +18,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjotbajwa&label=Profile%20views&color=0e75b6&style=flat" alt="prabhjotbajwa" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React and Socket.io**
 
